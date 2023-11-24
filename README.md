@@ -1,10 +1,11 @@
 # This is my repository.  
 # My name is Rezy. I study in TvSU!
+# My main language is C#
+# I also use C++ / Python / Java
 
 ## Here you can find such projects as:
 
 #### - My TvSU projects on different programming languages
-#### - My C# projects (currently my main language)
 #### - My C++ projects
 #### - My Python projects
 #### - My *[Leetcode solutions](https://leetcode.com/RezyIGL/)*
