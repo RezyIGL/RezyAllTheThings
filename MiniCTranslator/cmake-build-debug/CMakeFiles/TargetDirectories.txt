@@ -1,3 +1,0 @@
-E:/GitRepositories/RezyAllTheThings/MiniCTranslator/cmake-build-debug/CMakeFiles/MiniCTranslator.dir
-E:/GitRepositories/RezyAllTheThings/MiniCTranslator/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/GitRepositories/RezyAllTheThings/MiniCTranslator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
